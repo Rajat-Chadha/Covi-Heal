@@ -2,6 +2,9 @@
 We present to you CoviHeal a two-way system between a donor and patient. The one stop platform for all plasma related queries & donations.
 
 # Setting project locally
+
+Github-Repository-Link(https://github.com/Rajat-Chadha/Covi-Heal)
+
 #### For Backend :- 
  -  Navigate to **backend folder** .
  -  Install npm packages by running command **npm install**
@@ -30,8 +33,6 @@ I had provided all environmental variables for testing purpose .
 ### Profile and Chat Section . Notifications through mail and sms . 
 ![ChatApp](https://i.imgur.com/boIAc5a.png)
 
-
-g
 
 ## Thank You !!!!
 
